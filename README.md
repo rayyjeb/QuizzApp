@@ -1,4 +1,4 @@
-**###QUIZZR**
+###QUIZZR
 
 **#Overview**
 Welcome to the Quiz App! The application is meant to offer users an environment in which they can take quizzes. If you are a student preparing for an exam, or a teacher producing tests, or even someone who loves quizzes just in general--this is the app to solve your needs.
