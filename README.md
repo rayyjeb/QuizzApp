@@ -1,7 +1,7 @@
 **#QUIZZR**
 
 **#Overview**
-Welcome to the Quiz App! The application is meant to offer users an environment in which they can make, take and manage quizzes. If you are a student preparing for an exam, or a teacher producing tests, or even someone who loves quizzes just in general--this is the app to solve your needs.
+Welcome to the Quiz App! The application is meant to offer users an environment in which they can take quizzes. If you are a student preparing for an exam, or a teacher producing tests, or even someone who loves quizzes just in general--this is the app to solve your needs.
 
 **Features**
 
@@ -18,5 +18,7 @@ Responsive Design: It works on desktops, tablets and mobile phones alike.
 ![Screenshot 2023-12-23 101116](https://github.com/rayyjeb/QuizzApp/assets/142793649/5be23f10-1488-41b0-9423-4b967881c6bf)
 
 ![mobile](https://github.com/rayyjeb/QuizzApp/assets/142793649/3e2602ae-a790-4664-a573-d1495222a49c)
+
+If you want to contribute to this project. Feel free to fork the projectt and commit the changes in an another branch   
 
 **#https://quizzrayy.netlify.app/**
