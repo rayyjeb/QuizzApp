@@ -138,7 +138,7 @@ const ScorePage = ({ QuizPage }) => {
           </div>
           <div className="parentCircle">
             <div className="flex1">
-              <h1>FINAL RESULT</h1>
+              <h1 className="topicHeader">FINAL RESULT</h1>
               <div className="scoreCircle">
                 <h1> {calculatePercentage()}% </h1>
               </div>

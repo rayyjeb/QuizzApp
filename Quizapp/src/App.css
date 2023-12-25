@@ -272,7 +272,9 @@ svg {
   border: none;
   transition: 0.25s ease-in-out;
 }
-
+.topicHeader{
+  text-align: center;
+}
 /* MEDIA SCREEN STYLING */
 @media only screen and (max-width: 1000px) {
 

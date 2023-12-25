@@ -13,7 +13,7 @@ function App() {
   const quiz = () => {
     setCurrQuestion(0);
     setIsCorrect(0);
-    setCurrPage("quizpage"); // Change to "quizpage" to go back to the quiz
+    setCurrPage("quizpage"); 
   };
 
   let result = (i, option) => {
